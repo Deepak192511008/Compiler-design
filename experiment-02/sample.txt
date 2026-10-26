@@ -1,0 +1,6 @@
+// This is a single-line comment.
+int number = 10;
+/* This block comment starts here
+   and ends on the next line. */
+number = number + 1;
+/* A complete block comment on one line. */

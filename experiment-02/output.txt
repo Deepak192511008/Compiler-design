@@ -1,0 +1,8 @@
+LINE     CLASSIFICATION  TEXT
+------------------------------------------------------------
+1        COMMENT         // This is a single-line comment.
+2        NOT A COMMENT    int number = 10;
+3        COMMENT         /* This block comment starts here
+4        COMMENT            and ends on the next line. */
+5        NOT A COMMENT    number = number + 1;
+6        COMMENT         /* A complete block comment on one line. */
