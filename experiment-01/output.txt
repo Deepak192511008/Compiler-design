@@ -1,0 +1,38 @@
+TOKEN TYPE     LEXEME               LOCATION
+--------------------------------------------------------
+SPECIAL SYMBOL #                    line 1
+IDENTIFIER     include              line 1
+OPERATOR       <                    line 1
+IDENTIFIER     stdio               line 1
+SPECIAL SYMBOL .                    line 1
+IDENTIFIER     h                   line 1
+OPERATOR       >                    line 1
+IDENTIFIER     int                 line 3
+IDENTIFIER     main                line 3
+SPECIAL SYMBOL (                    line 3
+IDENTIFIER     void                line 3
+SPECIAL SYMBOL )                    line 3
+SPECIAL SYMBOL {                    line 3
+IDENTIFIER     int                 line 4
+IDENTIFIER     number              line 4
+OPERATOR       =                    line 4
+CONSTANT       10                   line 4
+SPECIAL SYMBOL ;                    line 4
+IDENTIFIER     float               line 5
+IDENTIFIER     result              line 5
+OPERATOR       =                    line 5
+IDENTIFIER     number              line 5
+OPERATOR       +                    line 5
+CONSTANT       2.5                  line 5
+SPECIAL SYMBOL ;                    line 5
+IDENTIFIER     printf              line 7
+SPECIAL SYMBOL (                    line 7
+STRING CONSTANT "result = %f\n"     line 7
+SPECIAL SYMBOL ,                    line 7
+IDENTIFIER     result              line 7
+SPECIAL SYMBOL )                    line 7
+SPECIAL SYMBOL ;                    line 7
+IDENTIFIER     return               line 8
+CONSTANT       0                    line 8
+SPECIAL SYMBOL ;                    line 8
+SPECIAL SYMBOL }                    line 9
