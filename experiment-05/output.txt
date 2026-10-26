@@ -1,0 +1,4 @@
+Whitespace characters (excluding newlines): 14
+Newline characters: 5
+Spaces: 13
+Tabs: 1
