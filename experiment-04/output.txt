@@ -1,0 +1,14 @@
+LINE     STATUS       OPERATOR
+----------------------------------
+1        INVALID      =
+1        VALID        +
+1        VALID        -
+1        VALID        *
+1        VALID        /
+
+Operator count
++ : 1
+- : 1
+* : 1
+/ : 1
+Total valid arithmetic operators: 4
